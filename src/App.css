@@ -1,0 +1,57 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.card {
+  padding: 2em;
+}
+
+.icon{
+  color: white;
+}
+.navbar{
+  background-color: rgb(69, 69, 69);
+}
+.navEle{
+  padding: 1em;
+}
+a{
+  margin: 0em 1em;
+}
+i{
+  padding: 0em 1em;
+}
+
+h2{
+  padding-top: 1em;
+}
+
+.active {
+  color: red;
+}
+
+.inactive{
+  text-decoration: none;
+  color: white;
+}
+
+select{
+  text-align: center;
+  padding: 0.4em 3em;
+}
+.divSelect{
+  margin-bottom: 1em;
+}
+
+.PokeCard{
+  display: flex;
+  justify-content: center;
+  margin: 1em;
+}
+
+ul{
+  text-align: left;
+}
